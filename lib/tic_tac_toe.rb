@@ -103,6 +103,6 @@ end
   nil
 end   
 
-
-#elsif draw?(board)
-  # puts "Cat's Game!"
+def play(board)
+  
+end 
